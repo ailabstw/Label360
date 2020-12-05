@@ -10,60 +10,59 @@ An annotation interface for labelling instance-aware semantic labels on panorami
 
 * Total # of images: 370
 * Scenes
-** NTU: 3
-** Tainan street view: 286
-** Tai-61 express way: 81
-
+    * NTU: 3
+    * Tainan street view: 286
+    * Tai-61 express way: 81
 * Total # of annotations: 72763
-** Building: 33316
-** Buildings: 7040
-** BuildingIgnore: 1335
-** Bicycle: 18
-** Bicycles: 15
-** Car: 23847
-** Cars: 1201
-** CarIgnore: 113
-** FreightCar: 171
-** Motorcycle: 3940
-** Motorcycles: 96
-** Trailer: 63
-** Truck: 1363
-** Van: 80
-** Vertices: 363815
+    * Building: 33316
+    * Buildings: 7040
+    * BuildingIgnore: 1335
+    * Bicycle: 18
+    * Bicycles: 15
+    * Car: 23847
+    * Cars: 1201
+    * CarIgnore: 113
+    * FreightCar: 171
+    * Motorcycle: 3940
+    * Motorcycles: 96
+    * Trailer: 63
+    * Truck: 1363
+    * Van: 80
+    * Vertices: 363815
 
 ### Bounding Box Annotations
 [Download Dataset](https://drive.google.com/file/d/1RIHenS6PQoUXtshh5iBur0MtpInLHA8u)
 * Total # of images: 26
 * Scene: NTU
 * Total # of annotations: 5763
-** Bicycle: 288
-** Bicycles: 131
-** Building: 2733
-** Buildings: 208
-** BuildingIgnore: 141
-** Car: 1515
-** Cars: 35
-** CarIgnore: 3
-** FreightCar: 15
-** Motorcycle: 629
-** Motorcycles: 23
-** Truck: 38
-** Van: 4
+    * Bicycle: 288
+    * Bicycles: 131
+    * Building: 2733
+    * Buildings: 208
+    * BuildingIgnore: 141
+    * Car: 1515
+    * Cars: 35
+    * CarIgnore: 3
+    * FreightCar: 15
+    * Motorcycle: 629
+    * Motorcycles: 23
+    * Truck: 38
+    * Van: 4
 
 ### [Experiment Result](https://drive.google.com/file/d/1i8Fqle_D_Q7_UKWQ3dTLDrRS2RgvNGwa)
 * Total # of images: 20
 * Scenes: 
-** NTU :5)
-** Tainan street view (5)
-** Tai-61 express way (10)
+    * NTU :5)
+    * Tainan street view (5)
+    * Tai-61 express way (10)
 * Categories
-** Drone
-** Sky
-** Road
-** Vehicle
-** Construction
-** Nature
-** Human
+    * Drone
+    * Sky
+    * Road
+    * Vehicle
+    * Construction
+    * Nature
+    * Human
 
 ## Acknowledgements
 This project was funded by Ministry of Science and Technology (MOST).
