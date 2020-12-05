@@ -29,7 +29,7 @@ We also provides high quality dense annotations. If you find the dataset is usef
     * Trailer: 63
     * Truck: 1363
     * Van: 80
-    * Vertices: 363815
+* Total # of Vertices: 363815
 
 ### Bounding Box Annotations
 [Download Dataset](https://drive.google.com/file/d/1RIHenS6PQoUXtshh5iBur0MtpInLHA8u)
