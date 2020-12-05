@@ -4,6 +4,7 @@ An annotation interface for labelling instance-aware semantic labels on panorami
 [![](assets/front-cover.jpg)](https://label-360.droneye.tw)
 
 ## Dataset
+We also provides high quality dense annotations. If you find the dataset is useful, please [cite](#citation) us.
 
 ### Polygon Annotations
 [Download Dataset](https://drive.google.com/file/d/1drnS-r-txi3n1sBJFfDwTpn9_HWfg1Gg)
@@ -63,6 +64,17 @@ An annotation interface for labelling instance-aware semantic labels on panorami
     * Construction
     * Nature
     * Human
+
+# Citation
+```
+@incollection{lin2020label360,
+  title={Label360: An Annotation Interface for Labeling Instance-Aware Semantic Labels on Panoramic Full Images},
+  author={Lin, Liang-Han and Wen, Hao-Kai and Kao, Man-Hsin and Chen, Evelyn and Lin, Tse-Han and Ouhyoung, Ming},
+  booktitle={SIGGRAPH Asia 2020 Posters},
+  pages={1--2},
+  year={2020}
+}
+```
 
 ## Acknowledgements
 This project was funded by Ministry of Science and Technology (MOST).
